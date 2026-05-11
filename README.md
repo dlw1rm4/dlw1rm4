@@ -1,11 +1,15 @@
-# \ Kaitlyn Nguy's Page ♡
+# Kaitlyn Nguy's Page ♡
 Hiya, friend! Thanks for stopping by :)
+
 ---
-### (About Me)[#about-me]
-### (My Work)[#my-work]
-### (What I'm Currently Working On)[#what-i'm-currently-working-on]
-### (My "Heart Values")[#my-heart-values]
-### (How to Reach Me)[#how-to-reach-me]
+## Sections
+(About Me °❀⋆.ೃ࿔*:･)[#about-me-°❀⋆.ೃ࿔*:･]
+(My Work °❀⋆.ೃ࿔*:･)[#my-work-°❀⋆.ೃ࿔*:･]
+(What I'm Currently Working On)[#what-i'm-currently-working-on]
+(My "Heart Values")[#my-heart-values]
+(How to Reach Me)[#how-to-reach-me]
+
+---
 ## About Me °❀⋆.ೃ࿔*:･
 I'm in my 2nd year of college at UC San Diego, studying computer science. Originally, I pursued coding because I was bad at it, since I kept writing code that didn't work in ROBLOX Studio. I ended up staying because I enjoyed creating projects that myself and others could use. As of writing this, I'm in Women in Computing (WIC) as the Tech Dev: Project Teams Chair Intern. I enjoy being a part of the UCSD WIC community, so I'd appreciate it if you read more about my experience in the club through this [link](#women-in-computing). People close to me have told me that I'm creative, reliable, and ambitious. I also get that I have a lot of **initiative**, **especially** when it comes to **working on team projects**.
 
