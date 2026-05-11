@@ -10,7 +10,8 @@ Hiya, friend! Thanks for stopping by :)
 * [How to Reach Me](#how-to-reach-me-)
 
 ---
-## About Me °❀⋆.ೃ࿔*:･
+## About Me 
+## °❀⋆.ೃ࿔*:･
 I'm in my 2nd year of college at UC San Diego, studying computer science. Originally, I pursued coding because I was bad at it, since I kept writing code that didn't work in ROBLOX Studio. I ended up staying because I enjoyed creating projects that myself and others could use. As of writing this, I'm in Women in Computing (WIC) as the Tech Dev: Project Teams Chair Intern. I enjoy being a part of the UCSD WIC community, so I'd appreciate it if you read more about my experience in the club through this [link](#women-in-computing). People close to me have told me that I'm creative, reliable, and ambitious. I also get that I have a lot of **initiative**, **especially** when it comes to **working on team projects**.
 
 ### The Story of my Last Name 
@@ -20,13 +21,17 @@ According to my mom, my family's surname was Wei (魏). However, my dad's family
 
 ### Women in Computing
 
-## My Work °❀⋆.ೃ࿔*:･
+## My Work 
+## °❀⋆.ೃ࿔*:･
 
-## What I'm Currently Working On °❀⋆.ೃ࿔*:･ 
+## What I'm Currently Working On 
+## °❀⋆.ೃ࿔*:･ 
 
-## My "Heart Values" °❀⋆.ೃ࿔*:･ 
+## My "Heart Values" 
+## °❀⋆.ೃ࿔*:･ 
 
-## How to Reach Me °❀⋆.ೃ࿔*:･
+## How to Reach Me 
+## °❀⋆.ೃ࿔*:･
 ### Contact Information 
 **Email:** kaitlyn.loc101@gmail.com (personal), klnguy@ucsd.edu (school)
 **LinkedIn:** [Kaitlyn Nguy's LinkedIn Profile](https://www.linkedin.com/in/kaitlyn-nguy/)
