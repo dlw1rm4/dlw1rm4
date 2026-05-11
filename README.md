@@ -2,7 +2,7 @@
 Hiya, friend! Thanks for stopping by :)
 
 ---
-## Sections
+## Table of Contents
 * [About Me](#about-me)
 * [My Work](#my-work)
 * [What I'm Currently Working On](#what-im-currently-working-on)
@@ -24,7 +24,7 @@ According to my mom, my family's surname was Wei (魏). However, my dad's family
 ### Women in Computing
 
 ### 3D Modeling
-
+During the COVID-19 pandemic, I got into 3D modeling on Blender. For a little over a year, I was creating models for at least 3 hours a day, hoping that people would enjoy and use my work. Luckily, a few video game studios liked my work enough to commission me. However, I reached a larger audience on YouTube (which I will not share out of privacy reasons), where I gained nearly **2,000** subscribers by teaching people how to 3D model in Blender. Although I no longer create videos, I still try to respond to comments when I can.
 
 ## My Work 
 ## °❀⋆.ೃ࿔*:･
