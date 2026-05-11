@@ -35,7 +35,7 @@ According to my mom, my family's surname was Wei (魏). However, my dad's family
 ## How to Reach Me 
 ## °❀⋆.ೃ࿔*:･
 ### Contact Information 
-**Email:** kaitlyn.loc101@gmail.com (personal), klnguy@ucsd.edu (school)
+**Email:** kaitlyn.loc101@gmail.com (personal), klnguy@ucsd.edu (school)  
 **LinkedIn:** [Kaitlyn Nguy's LinkedIn Profile](https://www.linkedin.com/in/kaitlyn-nguy/)
 <!--
 **dlw1rm4/dlw1rm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
