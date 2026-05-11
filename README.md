@@ -1,5 +1,5 @@
 # Kaitlyn Nguy's Page ♡
-Hiya, friend! Thanks for stopping by :)
+Hiya, friend! Thanks for stopping by :)  
 ![hello](https://github.com/user-attachments/assets/3e883450-99a4-42af-af1b-b309f38bec78)
 
 ---
