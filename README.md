@@ -1,4 +1,4 @@
-# ~♡ Kaitlyn Nguy's Page ♡~
+# \~♡ Kaitlyn Nguy's Page ♡\~
 
 <!--
 **dlw1rm4/dlw1rm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
