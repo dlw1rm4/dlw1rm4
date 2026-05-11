@@ -23,6 +23,9 @@ According to my mom, my family's surname was Wei (魏). However, my dad's family
 
 ### Women in Computing
 
+### 3D Modeling
+
+
 ## My Work 
 ## °❀⋆.ೃ࿔*:･
 
