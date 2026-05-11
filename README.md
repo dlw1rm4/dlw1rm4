@@ -1,6 +1,6 @@
 # Kaitlyn Nguy's Page ♡
 Hiya, friend! Thanks for stopping by :)
-
+![hello-friend](https://tenor.com/view/hello-friend-demon-tiger-kpop-demon-hunters-demon-tiger-kpop-demon-hunters-tiger-gif-11441390691365765246)
 ---
 ## Table of Contents
 * [About Me](#about-me)
