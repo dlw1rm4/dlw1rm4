@@ -3,11 +3,11 @@ Hiya, friend! Thanks for stopping by :)
 
 ---
 ## Sections
-* [About Me](#about-me-)
-* [My Work](#my-work-)
-* [What I'm Currently Working On](#what-im-currently-working-on-)
-* [My "Heart Values"](#my-heart-values-)
-* [How to Reach Me](#how-to-reach-me-)
+* [About Me](#about-me)
+* [My Work](#my-work)
+* [What I'm Currently Working On](#what-im-currently-working-on)
+* [My "Heart Values"](#my-heart-values)
+* [How to Reach Me](#how-to-reach-me)
 
 ---
 ## About Me 
