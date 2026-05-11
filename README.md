@@ -14,7 +14,7 @@ Hiya, friend! Thanks for stopping by :)
 ## °❀⋆.ೃ࿔*:･
 I'm in my 2nd year of college at UC San Diego, studying computer science. Originally, I pursued coding because I was bad at it, since I kept writing code that didn't work in ROBLOX Studio. I ended up staying because I enjoyed creating projects that myself and others could use. As of writing this, I'm in Women in Computing (WIC) as the Tech Dev: Project Teams Chair Intern. I enjoy being a part of the UCSD WIC community, so I'd appreciate it if you read more about my experience in the club through this [link](#women-in-computing).
 
-People close to me have told me that I'm creative, reliable, and ambitious. I also get that I have a lot of ***initiative***, ***especially*** when it comes to ***working on team projects***.
+People close to me have told me that I'm creative, reliable, and ambitious. I also get that I have a lot of **initiative**, *especially* when it comes to working on team projects.
 
 ### The Story of my Last Name 
 My last name is unique because it looks like a common Vietnamese last name (Nguyen) without 'en', but I'm actually fully Chinese. Unfortunately, I'm only fluent when my mom is yelling at me in Cantonese!
