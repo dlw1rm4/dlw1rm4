@@ -35,6 +35,11 @@ During the COVID-19 pandemic, I got into 3D modeling on Blender. For a little ov
 
 ## My Work 
 ## °❀⋆.ೃ࿔*:･
+I have a lot of projects that I've worked on, so I'll pin my favorites for now and create a better list in the future. For now, please check out what I'm currently working on!
+What I've worked with and had the most fun with (not a comprehensive list):
+- Google APIs
+- Amazon Web Services (AWS)
+- Computer vision models such as [FairFace](https://github.com/dchen236/FairFace)
 
 ## What I'm Currently Working On 
 ## °❀⋆.ೃ࿔*:･ 
