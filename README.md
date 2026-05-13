@@ -38,7 +38,10 @@ During the COVID-19 pandemic, I got into 3D modeling on Blender. For a little ov
 
 ## What I'm Currently Working On 
 ## °❀⋆.ೃ࿔*:･ 
-
+Funnily enough, every project that I work on is something I'm currently working on. I really like to revisit old projects to implement new features and/or fix bugs. But, if that doesn't count, I'm currently working on:
+- [git-it](https://dlw1rm4.github.io/git-it/): a website that helps beginners learn Git (originally designed for beginners in WIC Project Teams)
+- [Erm...Actually!](https://github.com/dlw1rm4/erm-actually): a Chrome extension that fact-checks politically-charged text
+- [Hamster Vision](https://wic-hamster-generator.vercel.app/): originally my friends' idea, a facial recognition web app that matches your face to a certain hamster (i'm just a mere contributor adding more funny faces!)
 ## My "Heart Values" 
 ## °❀⋆.ೃ࿔*:･ 
 Since the start of the school year, I've been thinking more about my "heart values," which is a term that my PSYC 88 professor uses to define what your heart wants. Although it isn't comprehensive, the list below are the three I try to keep in mind whenever I make decisions:
