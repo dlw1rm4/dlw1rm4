@@ -41,12 +41,11 @@ During the COVID-19 pandemic, I got into 3D modeling on Blender. For a little ov
 
 ## My "Heart Values" 
 ## °❀⋆.ೃ࿔*:･ 
-Since the start of the school year, I've been thinking more about my "heart values," which is a term that my PSYC 88 professor uses to define what your heart wants. The list below are the five I try to keep in mind whenever I make decisions:
-1.  
-2.
-3.
-4.
-5. 
+Since the start of the school year, I've been thinking more about my "heart values," which is a term that my PSYC 88 professor uses to define what your heart wants. Although it isn't comprehensive, the list below are the three I try to keep in mind whenever I make decisions:
+1. Treat everything as a learning experience, no matter what the situation is 
+2. Be genuine and authentic, especially when it comes to human connection
+3. Every life is as important as my own
+
 ## How to Reach Me 
 ## °❀⋆.ೃ࿔*:･
 ### Contact Information 
