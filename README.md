@@ -62,6 +62,7 @@ Since the start of the school year, I've been thinking more about my "heart valu
 **LinkedIn:** [Kaitlyn Nguy's LinkedIn Profile](https://www.linkedin.com/in/kaitlyn-nguy/)
 
 Thanks for reading my page! Have a wonderful day :D
+
 ![my-spirit-animal](https://github.com/user-attachments/assets/9526e9ae-e723-463b-af1c-bafc74a1a32d)
 
 <!--
